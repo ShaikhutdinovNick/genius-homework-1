@@ -32,7 +32,7 @@ ul {
 }
 
 .link:hover {
-  color: var(--color-brand-light)-light;
+  color: var(--color-brand-light);
 }
 
 .hero-title {
